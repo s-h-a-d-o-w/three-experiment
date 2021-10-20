@@ -1,3 +1,4 @@
 ## Three.js experiment
 
-Nothing to see here, please move along. 😁
+Nothing exciting, just experimenting with how React and Three.js interact. Scheduled for deletion in 3, 2, ... 😁
+
